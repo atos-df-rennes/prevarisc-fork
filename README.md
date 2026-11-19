@@ -2,6 +2,9 @@
     <img src="public/favicon.ico" alt="Prevarisc" height="100" width="100" />
 </p>
 
+> [!NOTE]
+> Fork archivé car aucune mise à jour upstream. Pour une version à jour et maintenue de Prevarisc, consultez [notre dépôt](https://github.com/atos-df-rennes/prevarisc-migration).
+
 # Prevarisc
 
 [Prevarisc](https://sdis62.github.io/prevarisc/) - Application web open-source gérant l'ensemble de l'activité du service prévention au sein d'un SDIS.
